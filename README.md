@@ -1,5 +1,7 @@
 ### Hi! 👋 I'm Reski Mulud Muchamad.
 
+<img src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/raw/main/screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg">
+
 I am a student majoring in Informatics Engineering. I am a who really like new things, and feel challenged about it. I am very happy when it comes to computers, gadgets and programming, that's my reason choose to study in Informatics Engineering
 
 
