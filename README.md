@@ -2,7 +2,11 @@
 
 <img src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/raw/main/screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg">
 
-I am a student majoring in Informatics Engineering. I am a who really like new things, and feel challenged about it. I am very happy when it comes to computers, gadgets and programming, that's my reason choose to study in Informatics Engineering
+I am Reski Mulud Muchamad, a Software Developer and Graphic Designer. I am currently studying at the Muhammadiyah University of Sukabumi and taking the Informatics Engineering study program and am currently taking semester 4.
+
+I am a person who really likes new things, and feel challenged about it. I really enjoy exploring and seeking knowledge in the world of computers, gadgets and programming, that's the reason I chose to study Informatics Engineering.
+
+I feel that what my campus teaches is not enough, therefore I continue to seek knowledge outside of lectures, and that is my daily activity.
 
 
 - 👀 I’m interested in Algorith, Web Development, Mobile Application, Machine Learning
