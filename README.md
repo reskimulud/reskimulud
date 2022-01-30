@@ -21,7 +21,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 - 💬 Feel free to ask me about web development or anything
 - 📫 How to reach me: [reski.mulud@gmail.com](mailto:reski.mulud@gmail.com)
 
-## Social
+## 🙋‍♂️ Social
   [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://reskimulud.my.id)&nbsp;
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reskimulud)&nbsp;
   [![Instagram](https://img.shields.io/badge/reskimulud-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reskimulud)&nbsp;
@@ -51,13 +51,14 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 
 
-# Github Statistic
-<div align="left">
-<a href="https://github.com/reskimulud">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reskimulud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reskimulud&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+# 📈 Github Statistic 
+<div align="center">
+  <a href="https://github.com/reskimulud">
+    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reskimulud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reskimulud&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  </a>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reskimulud&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=reskimulud&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
-![Reski Mulud M's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=reskimulud&hide_border=true&theme=redical)
+![Reski Mulud M's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=reskimulud&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
