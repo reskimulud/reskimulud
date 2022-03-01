@@ -1,6 +1,6 @@
-# Hi Folks! 👋
+# Hi Folks! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="40px" />
 
-<img src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/raw/main/screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg">
+![](screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=reskimulud)&nbsp;
 [![wakatime](https://wakatime.com/badge/user/b02a286e-3d0f-4af8-a433-7d562aaf08e9.svg)](https://wakatime.com/@b02a286e-3d0f-4af8-a433-7d562aaf08e9)&nbsp;
@@ -9,7 +9,11 @@
 [![GitHub: reskimulud](https://img.shields.io/github/followers/reskimulud?label=follow&style=social)](https://github.com/reskimulud)&nbsp;
 
 ## I am [Reski Mulud Muchamad](https://reskimulud.my.id), 
-A Software Developer and Graphic Designer. I am an _undergraduate student_ at the [Muhammadiyah University of Sukabumi](https://ummi.ac.id) and taking the Informatics Engineering study program and I am currently taking semester 5.
+A Software Developer and Graphic Designer. I am an _undergraduate student_ at the [Universitas Muhammadiyah Sukabumi](https://ummi.ac.id) and taking the Informatics Engineering study program and I am currently taking semester 6.
+
+### About Me :
+- <img src="./logo-svg/google-developers.svg" width="25px" /> [**Google Developer Student Clubs**](https://gdsc-ummi.tech) *Lead* at *Universitas Muhammadiyah Sukabumi*
+- <img src="./logo-svg/bangkit-logo.svg" width="15px" /> **Mobile Developer Student** at [*Bangkit Academy 2022 by Google, GoTo, Traveloka*](https://g.co/bangkit)
 
 I am a person who really likes new things, and feel challenged about it. I really enjoy exploring and seeking knowledge in the world of computers, gadgets and programming, that's the reason I chose to study Informatics Engineering.
 
