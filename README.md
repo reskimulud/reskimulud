@@ -3,7 +3,6 @@
 ![](screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg)
 
 ![Profile Viewer](https://komarev.com/ghpvc/?username=reskimulud&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=reskimulud)&nbsp;
 [![wakatime](https://wakatime.com/badge/user/b02a286e-3d0f-4af8-a433-7d562aaf08e9.svg)](https://wakatime.com/@b02a286e-3d0f-4af8-a433-7d562aaf08e9)&nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/reskimulud.svg?style=social)&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/reskimulud/reskimulud.svg?style=social)&nbsp;
