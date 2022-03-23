@@ -92,4 +92,8 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 
 ![Reski Mulud M's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=reskimulud&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reskimulud&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=reskimulud&theme=algolia&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Metrics
+
+[![Snek](https://raw.githubusercontent.com/reskimulud/reskimulud/output/github-contribution-grid-snake.svg)](https://github.com/reskimulud)
