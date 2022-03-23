@@ -2,6 +2,7 @@
 
 ![](screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg)
 
+![Profile Viewer](https://komarev.com/ghpvc/?username=reskimulud&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=reskimulud)&nbsp;
 [![wakatime](https://wakatime.com/badge/user/b02a286e-3d0f-4af8-a433-7d562aaf08e9.svg)](https://wakatime.com/@b02a286e-3d0f-4af8-a433-7d562aaf08e9)&nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/reskimulud.svg?style=social)&nbsp;
@@ -32,6 +33,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/reski.muchamad)&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reski.mulud@gmail.com)&nbsp;
   [![Twitter](https://img.shields.io/badge/reski_mulud-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/reski_mulud)&nbsp;
+  <!-- [![Twitter](https://img.shields.io/twitter/follow/reski_mulud?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/reski_mulud)&nbsp; -->
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285157705184)&nbsp;
   [![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/reski_mulud)&nbsp;
   
@@ -91,4 +93,4 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 
 ![Reski Mulud M's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=reskimulud&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reskimulud&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=reskimulud&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
