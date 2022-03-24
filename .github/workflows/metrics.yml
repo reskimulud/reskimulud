@@ -13,3 +13,36 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+      - name: Detailed display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+      - name: Detailed report
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.detailed.svg
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://reskimulud.my.id
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}

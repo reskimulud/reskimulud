@@ -94,6 +94,6 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=reskimulud&theme=algolia&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Metrics
+# 📊 Metrics
 
 [![Snek](https://raw.githubusercontent.com/reskimulud/reskimulud/output/github-contribution-grid-snake.svg)](https://github.com/reskimulud)
