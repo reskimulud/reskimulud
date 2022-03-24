@@ -96,4 +96,16 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 
 # 📊 Metrics
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/github-metrics.svg"/>
+<img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/metrics.plugin.wakatime.svg"/>
+<img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/metrics.plugin.achievements.svg"/>
+<a href="https://reskimulud.my.id" target="_blank">
+  <img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/metrics.plugin.pagespeed.detailed.svg" />
+</a>
+<img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/metrics.plugin.isocalendar.fullyear.svg" />
+
+</div>
+
 [![Snek](https://raw.githubusercontent.com/reskimulud/reskimulud/output/github-contribution-grid-snake.svg)](https://github.com/reskimulud)
