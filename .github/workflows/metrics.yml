@@ -33,6 +33,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.pagespeed.detailed.svg
+          token: NOT_NEEDED
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
@@ -42,6 +43,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
