@@ -99,6 +99,10 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/github-metrics.svg"/>
+<img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/metrics.plugin.activity.svg"/>
+<img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/metrics.plugin.languages.indepth.svg"/>
+<img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/metrics.plugin.followup.indepth.svg"/>
+<img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/metrics.plugin.stargazers.chartist.svg"/>
 <img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/metrics.plugin.wakatime.svg"/>
 <img src="https://raw.githubusercontent.com/reskimulud/reskimulud/main/metrics.plugin.achievements.svg"/>
 <a href="https://reskimulud.my.id" target="_blank">
