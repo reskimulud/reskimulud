@@ -21,15 +21,13 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: Compact display
+      - name: Detailed display
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
       - name: Detailed report
         uses: lowlighter/metrics@latest
         with:
