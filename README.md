@@ -80,6 +80,13 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
+  # ➕ Extras
+
+  <div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=algolia&myquote=Jadilah%20berguna!" />
+  </div>
+
+
 
 # 📈 Github Statistic 
 <div align="center">
