@@ -1,4 +1,4 @@
-# Hi Folks! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="40px" />
+# Hi Folks! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" />
 
 ![](screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg)
 
