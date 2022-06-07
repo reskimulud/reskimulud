@@ -16,7 +16,7 @@ A Software Developer and Graphic Designer. I am an _undergraduate student_ at th
 - <img src="./logo-svg/google-developers.svg" width="25px" /> [**Google Developer Student Clubs**](https://gdsc-ummi.tech) *Lead* at *Universitas Muhammadiyah Sukabumi*
 - <img src="./logo-svg/bangkit-logo.svg" width="15px" /> **Mobile Developer Student** at [*Bangkit Academy 2022 by Google, GoTo, Traveloka*](https://g.co/bangkit)
 
-- <img src="./logo-svg/bdi-icon.svg" width="15px" /> **Android Developer Intern** at *Berani Digital ID*
+- <img src="./logo-svg/bdi-icon.svg" width="15px" /> **Android Developer Intern** at *[Berani Digital ID](https://github.com/beranidigital)*
 
 I am a person who really likes new things, and feel challenged about it. I really enjoy exploring and seeking knowledge in the world of computers, gadgets and programming, that's the reason I chose to study Informatics Engineering.
 
