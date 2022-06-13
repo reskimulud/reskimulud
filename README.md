@@ -1,10 +1,11 @@
-# Hi Folks! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" />
+# Hi Folks! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" height="35px" />
 
 ![](screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;
 ![Profile Viewer](https://komarev.com/ghpvc/?username=reskimulud&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
-[![wakatime](https://wakatime.com/badge/user/b02a286e-3d0f-4af8-a433-7d562aaf08e9.svg)](https://wakatime.com/@b02a286e-3d0f-4af8-a433-7d562aaf08e9)&nbsp;
+[![wakatime](https://wakatime.com/badge/user/b02a286e-3d0f-4af8-a433-7d562aaf08e9.svg)](https://wakatime.com/@reskimulud)&nbsp;
+![Metrics](https://github.com/reskimulud/reskimulud/actions/workflows/metrics.yml/badge.svg)&nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/reskimulud.svg?style=social)&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/reskimulud/reskimulud.svg?style=social)&nbsp;
 [![GitHub: reskimulud](https://img.shields.io/github/followers/reskimulud?label=follow&style=social)](https://github.com/reskimulud)&nbsp;
