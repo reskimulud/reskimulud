@@ -69,6 +69,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   ### Tools (Databases, IDE, Cloud, Hosting, etc):
   ![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+  ![Firebase](https://img.shields.io/badge/Firebase-F38020?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
