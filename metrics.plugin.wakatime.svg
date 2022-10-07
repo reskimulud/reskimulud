@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="219" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="231" class="">
     <defs>
         <style/>
     </defs>
@@ -61,18 +61,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">SecureDataStoreKotlin</span>
-                                <div class="bar" style="width: 78.55199999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">98%</span>
+                                <div class="bar" style="width: 56.128%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">70%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Mankgram</span>
-                                <div class="bar" style="width: 0.76%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <span class="name">Encrypted DataStore</span>
+                                <div class="bar" style="width: 13.319999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">EncryptedDataStore</span>
+                                <div class="bar" style="width: 8.623999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 0.688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 1.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">eshop</span>
+                                <div class="bar" style="width: 0.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -81,18 +91,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 77.752%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">97%</span>
+                                <div class="bar" style="width: 77.064%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">96%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Groovy</span>
-                                <div class="bar" style="width: 1.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.6320000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 0.9199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">GitIgnore file</span>
+                                <div class="bar" style="width: 0.37599999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Gradle</span>
+                                <div class="bar" style="width: 0.17600000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
