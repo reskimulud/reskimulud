@@ -10,19 +10,20 @@
 [![GitHub forks](https://img.shields.io/github/forks/reskimulud/reskimulud.svg?style=social)](https://github.com/reskimulud/reskimulud)&nbsp;
 [![GitHub: reskimulud](https://img.shields.io/github/followers/reskimulud?label=follow&style=social)](https://github.com/reskimulud)&nbsp;
 
-## I am [Reski Mulud Muchamad](https://reskimulud.my.id), 
+## I am [Reski Mulud Muchamad](https://reskimulud.my.id)
+
 A Software Developer especially in **Android Development**. I am an _undergraduate student_ at the [Universitas Muhammadiyah Sukabumi](https://ummi.ac.id) and taking the Informatics Engineering study program and I am currently taking semester 7.
 
-### About Me :
+### About Me
+
 - <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61439225" width="23px"> Google Certified [**Associate Android Developer**](https://www.credential.net/0da0b6a5-9fdf-4cbc-9eeb-410c91c5d162)
 - <img src="./logo-svg/devcamp.png" height="25px" /> **Tokopedia Devcamp Alumni** Class of 2022 - **Android** Curriculum
-- <img src="./logo-svg/bangkit-logo.svg" width="15px" /> **Mobile Developer Student** at [*Bangkit Academy 2022 by Google, GoTo, Traveloka*](https://g.co/bangkit)
-- <img src="./logo-svg/google-developers.svg" width="25px" /> [**Google Developer Student Clubs**](https://gdsc-ummi.tech) *Lead* at *Universitas Muhammadiyah Sukabumi*
+- <img src="./logo-svg/bangkit-logo.svg" width="15px" /> **Mobile Developer Student** at [_Bangkit Academy 2022 by Google, GoTo, Traveloka_](https://g.co/bangkit)
+- <img src="./logo-svg/google-developers.svg" width="25px" /> [**Google Developer Student Clubs**](https://gdsc-ummi.tech) _Lead_ at _Universitas Muhammadiyah Sukabumi_
 
 I am a person who really likes new things, and feel challenged about it. I really enjoy exploring and seeking knowledge in the world of computers, gadgets and programming, that's the reason I chose to study Informatics Engineering.
 
 I feel that what my campus teaches is not enough, therefore I continue to seek knowledge outside of lectures, and that is my daily activity.
-
 
 - 👀 I’m interested in Algorithm, Web Development, Mobile Application, Machine Learning
 - 🌱 I’m currently learning about Mobile Apps (Android) and Machine Learning
@@ -30,6 +31,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 - 📫 How to reach me: [reski.mulud@gmail.com](mailto:reski.mulud@gmail.com)
 
 ## 🙋‍♂️ Social
+
   [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://reskimulud.my.id)&nbsp;
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reskimulud)&nbsp;
   [![Instagram](https://img.shields.io/badge/reskimulud-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reskimulud)&nbsp;
@@ -45,6 +47,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 # Tech Stack
 
 ### Web Development
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -56,17 +59,19 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 
-  ### Mobile Development (Android)
+### Mobile Development (Android)
+
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
   ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 
-  ### Machine Learnig
+### Machine Learnig
+
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
   
+### Tools (Databases, IDE, Cloud, Hosting, etc)
 
-  ### Tools (Databases, IDE, Cloud, Hosting, etc):
   ![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
   ![Firebase](https://img.shields.io/badge/Firebase-F38020?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
@@ -86,15 +91,14 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-  # ➕ Extras
+# ➕ Extras
 
   <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?theme=algolia&myquote=Jadilah%20berguna!" />
   </div>
 
+# 📈 Github Statistic
 
-
-# 📈 Github Statistic 
 <div align="center">
   <a href="https://github.com/reskimulud">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reskimulud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
