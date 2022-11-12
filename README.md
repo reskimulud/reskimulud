@@ -16,9 +16,9 @@ A Software Developer especially in **Android Development**. I am an _undergradua
 
 ### About Me
 
-- <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61439225" width="23px"> Google Certified [**Associate Android Developer**](https://www.credential.net/0da0b6a5-9fdf-4cbc-9eeb-410c91c5d162)
-- <img src="./logo-svg/devcamp.png" height="25px" /> **Tokopedia Devcamp Alumni** Class of 2022 - **Android** Curriculum
-- <img src="./logo-svg/bangkit-logo.svg" width="15px" /> **Mobile Developer Student** at [_Bangkit Academy 2022 by Google, GoTo, Traveloka_](https://g.co/bangkit)
+- <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61439225" width="25px"> Google Certified [**Associate Android Developer**](https://www.credential.net/0da0b6a5-9fdf-4cbc-9eeb-410c91c5d162)
+- <img src="./logo-svg/devcamp.png" width="25px" /> **Tokopedia Devcamp Alumni** Class of 2022 - **Android** Curriculum
+- <img src="./logo-svg/bangkit-logo.svg" width="25px" /> **Mobile Developer Student** at [_Bangkit Academy 2022 by Google, GoTo, Traveloka_](https://g.co/bangkit)
 - <img src="./logo-svg/google-developers.svg" width="25px" /> [**Google Developer Student Clubs**](https://gdsc-ummi.tech) _Lead_ at _Universitas Muhammadiyah Sukabumi_
 
 I am a person who really likes new things, and feel challenged about it. I really enjoy exploring and seeking knowledge in the world of computers, gadgets and programming, that's the reason I chose to study Informatics Engineering.
