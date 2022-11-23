@@ -95,6 +95,8 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 
   <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?theme=algolia&myquote=Jadilah%20berguna!" />
+    <br>
+    <a href="https://stardev.io/developers/reskimulud"><img alt="Check out reskimulud&apos;s profile on stardev.io" src="https://stardev.io/developers/reskimulud/badge/languages/global.svg" /></a>
   </div>
 
 # 📈 Github Statistic
