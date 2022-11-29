@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.16564245432411" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="202.16564245432411" y="0" width="108.13582785939434" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="310.3014703137184" y="0" width="72.80604215202797" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="383.10751246574637" y="0" width="40.30214679620301" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="423.40965926194934" y="0" width="25.817637240422794" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="449.22729650237216" y="0" width="10.772703497627784" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.15774901018997" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="202.15774901018997" y="0" width="108.13160575663869" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="310.2893547668287" y="0" width="72.80319948094214" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="383.0925542477708" y="0" width="40.300573221483006" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="423.39312746925384" y="0" width="25.816629205255403" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="449.2097566745092" y="0" width="10.790243325490792" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -100,8 +100,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>944 kB</div>
-                                <div>2.34%</div>
+                                <div>945 kB</div>
+                                <div>2.35%</div>
                             </small>
                         </div>
                     </section>
