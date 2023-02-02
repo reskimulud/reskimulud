@@ -12,7 +12,7 @@
 
 ## I am [Reski Mulud Muchamad](https://reskimulud.my.id)
 
-A Software Developer especially in **Android Development**. I am an _undergraduate student_ at the [Universitas Muhammadiyah Sukabumi](https://ummi.ac.id) and taking the Informatics Engineering study program and I am currently taking semester 7.
+A Google Certified [**Associate Android Developer**](https://www.credential.net/0da0b6a5-9fdf-4cbc-9eeb-410c91c5d162). Someone who is interested and fascinated to develop Android apps with some experience in Android Development using Kotlin (Android Native) programming language. As a graduate of **Bangkit Academy 2022**, alumni of **Tokopedia Devcamp 2022** and former Lead in the **Google Developer Student Clubs community**.
 
 ### About Me
 
