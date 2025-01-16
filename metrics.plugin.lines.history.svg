@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">reskimulud/reski-mulud-muchamad.github.io</span>
+                            <span class="diff-handle">reskimulud/encrypted-datastore</span>
                         </div>
                     </section>
                     <section>
@@ -27,11 +27,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +751</span>
-                                <span class="deleted">     -1</span>
+                                <span class="added"> +4.68k</span>
+                                <span class="deleted"> -1.53k</span>
                             </div>
                             <span> </span>
                         </div>
