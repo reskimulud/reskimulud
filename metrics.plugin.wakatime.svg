@@ -61,12 +61,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Digiroom-Mobile-Android</span>
-                                <div class="bar" style="width: 79.376%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.048%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 0.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.9199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
@@ -81,27 +81,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 78.024%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">98%</span>
+                                <div class="bar" style="width: 77.752%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">97%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">XML</span>
-                                <div class="bar" style="width: 1.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.2640000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 0.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.9199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Text</span>
-                                <div class="bar" style="width: 0.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
                                 <div class="bar" style="width: 0.05600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JSON</span>
+                                <div class="bar" style="width: 0.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
