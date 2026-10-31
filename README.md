@@ -43,7 +43,7 @@ fun main() {
 
 <div align="center">
   <a href="https://github.com/reskimulud">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=reskimulud&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=reskimulud&include_all_commits=true&theme=algolia"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reskimulud&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
   </a>
 </div>
